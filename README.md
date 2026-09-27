@@ -24,11 +24,11 @@ The statistics above are automatically generated from my competitive programming
 
 <!-- CF_STATS_START -->
 
-- **Current Rating:** Loading...
-- **Maximum Rating:** Loading...
-- **Rank:** Loading...
-- **Contests:** Loading...
-- **Rating History:** 📈 Loading...
+- **Current Rating:** 385
+- **Maximum Rating:** 385
+- **Rank:** newbie
+- **Contests:** 1
+- **Rating History:** 📈 1 contests
 
 <!-- CF_STATS_END -->
 ### 🟩 Problem Solving
