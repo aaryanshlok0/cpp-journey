@@ -1,7 +1,7 @@
 # ⚡ cpp-journey
 
 <p align="center">
-  <b>My journey through C++, Data Structures & Algorithms, and Competitive Programming.</b>
+  <b>My journey through C++, DSA, algorithms, and competitive programming.</b>
 </p>
 
 <p align="center">
@@ -10,33 +10,75 @@
 
 ---
 
-## 🧭 About
+## 📊 My Competitive Programming Stats
 
-This repository contains my solutions, experiments, notes, templates, and progress while learning **Competitive Programming with C++**.
-
-I'm using this repository to document the journey from solving basic implementation problems to tackling advanced algorithms and competitive programming contests.
-
-> **Learn → Solve → Compete → Analyze → Improve**
-
----
-
-## 📊 Competitive Programming Stats
-
-| Platform | Progress |
-|----------|----------|
-| 🟦 Codeforces | [My Profile](https://codeforces.com/) |
-| 🟩 CSES | [Problem Set](https://cses.fi/problemset/) |
-| 🟨 AtCoder | [My Profile](https://atcoder.jp/) |
-
-Stats and progress are updated automatically using **GitHub Actions**.
-
----
-
-## 🏆 Platforms
+The statistics above are automatically generated from my competitive programming activity.
 
 ### 🟦 Codeforces
 
-My main competitive programming platform.
+- **Current Rating:** Automatically updated
+- **Maximum Rating:** Automatically updated
+- **Rank:** Automatically updated
+- **Contests:** Automatically updated
+- **Rating History:** Automatically tracked
+
+### 🟩 Problem Solving
+
+I practice problems across multiple platforms:
+
+| Platform | Focus |
+|----------|-------|
+| 🟦 Codeforces | Competitive programming & contests |
+| 🟩 CSES | Algorithms & problem solving |
+| 🟨 AtCoder | Contest practice |
+| ⚪ Personal Practice | Concepts & implementation |
+
+---
+
+
+---
+
+## 📁 Repository Structure
 
 ```text
-Problems → Rating → Contests → Analysis → Improvement
+cpp-journey/
+│
+├── .github/
+│   └── workflows/
+│       └── update-stats.yml
+│
+├── codeforces/
+│   ├── 800/
+│   ├── 900/
+│   ├── 1000/
+│   ├── 1100/
+│   └── contests/
+│
+├── cses/
+│   ├── introductory/
+│   ├── sorting-searching/
+│   ├── dynamic-programming/
+│   └── graphs/
+│
+├── atcoder/
+│
+├── practice/
+│   ├── arrays/
+│   ├── strings/
+│   ├── bitwise/
+│   ├── mathematics/
+│   └── recursion/
+│
+├── templates/
+│   └── cp_template.cpp
+│
+├── scripts/
+│   ├── update_stats.py
+│   └── generate_dashboard.py
+│
+├── assets/
+│   └── cp-stats.svg
+│
+├── stats.json
+├── LICENSE
+└── README.md
