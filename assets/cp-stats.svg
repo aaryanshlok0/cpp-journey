@@ -1,0 +1,176 @@
+<svg width="850" height="600"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="850" height="600"
+rx="20"
+fill="#0d1117"/>
+
+<!-- Title -->
+
+<text x="50" y="65"
+fill="#ffffff"
+font-size="30"
+font-family="Arial"
+font-weight="bold">
+
+⚡ aaryanshlok's CP Journey
+
+</text>
+
+
+<!-- Subtitle -->
+
+<text x="50" y="95"
+fill="#8b949e"
+font-size="15"
+font-family="Arial">
+
+Competitive Programming Dashboard
+
+</text>
+
+
+<!-- Rating card -->
+
+<rect x="50" y="130"
+width="220"
+height="120"
+rx="15"
+fill="#161b22"
+stroke="#30363d"/>
+
+<text x="70" y="165"
+fill="#8b949e"
+font-size="14"
+font-family="Arial">
+
+CURRENT RATING
+
+</text>
+
+<text x="70" y="210"
+fill="#ffffff"
+font-size="36"
+font-family="Arial"
+font-weight="bold">
+
+385
+
+</text>
+
+
+<!-- Max rating card -->
+
+<rect x="290" y="130"
+width="220"
+height="120"
+rx="15"
+fill="#161b22"
+stroke="#30363d"/>
+
+<text x="310" y="165"
+fill="#8b949e"
+font-size="14"
+font-family="Arial">
+
+MAX RATING
+
+</text>
+
+<text x="310" y="210"
+fill="#ffffff"
+font-size="36"
+font-family="Arial"
+font-weight="bold">
+
+385
+
+</text>
+
+
+<!-- Contests card -->
+
+<rect x="530" y="130"
+width="220"
+height="120"
+rx="15"
+fill="#161b22"
+stroke="#30363d"/>
+
+<text x="550" y="165"
+fill="#8b949e"
+font-size="14"
+font-family="Arial">
+
+CONTESTS
+
+</text>
+
+<text x="550" y="210"
+fill="#ffffff"
+font-size="36"
+font-family="Arial"
+font-weight="bold">
+
+1
+
+</text>
+
+
+<!-- Rating history -->
+
+<text x="50" y="290"
+fill="#ffffff"
+font-size="20"
+font-family="Arial"
+font-weight="bold">
+
+Rating History
+
+</text>
+
+
+<!-- Graph -->
+
+<line x1="80" y1="490"
+x2="780" y2="490"
+stroke="#30363d"/>
+
+<line x1="80" y1="330"
+x2="80" y2="490"
+stroke="#30363d"/>
+
+
+<polyline
+points="80.0,410.0"
+fill="none"
+stroke="#58a6ff"
+stroke-width="4"
+stroke-linejoin="round"
+stroke-linecap="round"/>
+
+
+<!-- Rank -->
+
+<text x="50" y="540"
+fill="#8b949e"
+font-size="15"
+font-family="Arial">
+
+Rank: newbie
+
+</text>
+
+
+<!-- Updated -->
+
+<text x="650" y="540"
+fill="#8b949e"
+font-size="13"
+font-family="Arial">
+
+Updated: 27 Sep 2026
+
+</text>
+
+</svg>
