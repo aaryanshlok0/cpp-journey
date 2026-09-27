@@ -43,12 +43,21 @@ stats = {
         {
             "contest": contest["contestName"],
             "rating": contest["newRating"],
+            "change": contest["newRating"] - contest["oldRating"],
             "date": contest["ratingUpdateTimeSeconds"]
         }
         for contest in rating_history
     ],
 
-    "updated": datetime.now().strftime("%d %b %Y")
+    "submissions": [
+        {
+            "date": submission["creationTimeSeconds"],
+            "verdict": submission["verdict"]
+        }
+        for submission in submissions
+    ],
+
+    "updated": datetime.now().strftime("%d %b %Y • %H:%M")
 }
 
 
