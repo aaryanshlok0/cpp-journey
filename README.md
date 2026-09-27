@@ -22,12 +22,15 @@ The statistics above are automatically generated from my competitive programming
 
 ### 🟦 Codeforces
 
-- **Current Rating:** Automatically updated
-- **Maximum Rating:** Automatically updated
-- **Rank:** Automatically updated
-- **Contests:** Automatically updated
-- **Rating History:** Automatically tracked
+<!-- CF_STATS_START -->
 
+- **Current Rating:** Loading...
+- **Maximum Rating:** Loading...
+- **Rank:** Loading...
+- **Contests:** Loading...
+- **Rating History:** 📈 Loading...
+
+<!-- CF_STATS_END -->
 ### 🟩 Problem Solving
 
 I practice problems across multiple platforms:
