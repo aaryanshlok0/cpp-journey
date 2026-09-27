@@ -36,6 +36,9 @@ jobs:
       - name: Generate dashboard
         run: python scripts/generate_dashboard.py
 
+      - name: Generate heatmap
+        run: python scripts/generate_heatmap.py
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
