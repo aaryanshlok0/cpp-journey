@@ -4,5 +4,13 @@
     "maxRating": 385,
     "rank": "newbie",
     "maxRank": "newbie",
-    "contests": 1
+    "contests": 1,
+    "ratingHistory": [
+        {
+            "contest": "Codeforces Round 1122 (Div. 3)",
+            "rating": 385,
+            "date": 1790010300
+        }
+    ],
+    "updated": "27 Sep 2026"
 }
