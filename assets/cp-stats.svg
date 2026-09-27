@@ -1,176 +1,158 @@
-<svg width="850" height="600"
+<svg width="900" height="420"
+viewBox="0 0 900 420"
 xmlns="http://www.w3.org/2000/svg">
 
-<rect width="850" height="600"
-rx="20"
+<rect width="100%" height="100%" rx="16"
 fill="#0d1117"/>
 
 <!-- Title -->
 
-<text x="50" y="65"
-fill="#ffffff"
-font-size="30"
+<text x="40" y="45"
 font-family="Arial"
-font-weight="bold">
+font-size="24"
+font-weight="bold"
+fill="#ffffff">
 
-⚡ aaryanshlok's CP Journey
-
-</text>
-
-
-<!-- Subtitle -->
-
-<text x="50" y="95"
-fill="#8b949e"
-font-size="15"
-font-family="Arial">
-
-Competitive Programming Dashboard
-
-</text>
-
-
-<!-- Rating card -->
-
-<rect x="50" y="130"
-width="220"
-height="120"
-rx="15"
-fill="#161b22"
-stroke="#30363d"/>
-
-<text x="70" y="165"
-fill="#8b949e"
-font-size="14"
-font-family="Arial">
-
-CURRENT RATING
-
-</text>
-
-<text x="70" y="210"
-fill="#ffffff"
-font-size="36"
-font-family="Arial"
-font-weight="bold">
-
-385
-
-</text>
-
-
-<!-- Max rating card -->
-
-<rect x="290" y="130"
-width="220"
-height="120"
-rx="15"
-fill="#161b22"
-stroke="#30363d"/>
-
-<text x="310" y="165"
-fill="#8b949e"
-font-size="14"
-font-family="Arial">
-
-MAX RATING
-
-</text>
-
-<text x="310" y="210"
-fill="#ffffff"
-font-size="36"
-font-family="Arial"
-font-weight="bold">
-
-385
-
-</text>
-
-
-<!-- Contests card -->
-
-<rect x="530" y="130"
-width="220"
-height="120"
-rx="15"
-fill="#161b22"
-stroke="#30363d"/>
-
-<text x="550" y="165"
-fill="#8b949e"
-font-size="14"
-font-family="Arial">
-
-CONTESTS
-
-</text>
-
-<text x="550" y="210"
-fill="#ffffff"
-font-size="36"
-font-family="Arial"
-font-weight="bold">
-
-1
-
-</text>
-
-
-<!-- Rating history -->
-
-<text x="50" y="290"
-fill="#ffffff"
-font-size="20"
-font-family="Arial"
-font-weight="bold">
-
-Rating History
-
-</text>
-
-
-<!-- Graph -->
-
-<line x1="80" y1="490"
-x2="780" y2="490"
-stroke="#30363d"/>
-
-<line x1="80" y1="330"
-x2="80" y2="490"
-stroke="#30363d"/>
-
-
-<polyline
-points="80.0,410.0"
-fill="none"
-stroke="#58a6ff"
-stroke-width="4"
-stroke-linejoin="round"
-stroke-linecap="round"/>
-
-
-<!-- Rank -->
-
-<text x="50" y="540"
-fill="#8b949e"
-font-size="15"
-font-family="Arial">
-
-Rank: newbie
+Codeforces Stats
 
 </text>
 
 
 <!-- Updated -->
 
-<text x="650" y="540"
-fill="#8b949e"
-font-size="13"
-font-family="Arial">
+<text x="40" y="70"
+font-family="Arial"
+font-size="12"
+fill="#8b949e">
 
-Updated: 27 Sep 2026 • 03:10
+Updated: 27 Sep 2026 • 03:14
 
 </text>
+
+
+<!-- Current Rating -->
+
+<text x="760" y="42"
+font-family="Arial"
+font-size="26"
+font-weight="bold"
+fill="#58a6ff">
+
+385
+
+</text>
+
+<text x="760" y="62"
+font-family="Arial"
+font-size="11"
+fill="#8b949e">
+
+CURRENT RATING
+
+</text>
+
+
+<!-- Graph -->
+
+<line
+x1="70"
+y1="330"
+x2="850"
+y2="330"
+stroke="#30363d"/>
+
+<line
+x1="70"
+y1="90"
+x2="70"
+y2="330"
+stroke="#30363d"/>
+
+
+<!-- Rating graph -->
+
+<polyline
+points="70.0,210.0"
+fill="none"
+stroke="#58a6ff"
+stroke-width="3"
+stroke-linejoin="round"
+stroke-linecap="round"
+/>
+
+
+<!-- Data points -->
+
+
+<circle
+cx="70.0"
+cy="210.0"
+r="4"
+fill="#58a6ff">
+<title>Rating: 385</title>
+</circle>
+
+
+<!-- Bottom stats -->
+
+<text x="80" y="375"
+font-family="Arial"
+font-size="15"
+fill="#8b949e">
+
+MAX RATING
+
+</text>
+
+<text x="80" y="400"
+font-family="Arial"
+font-size="22"
+font-weight="bold"
+fill="#ffffff">
+
+385
+
+</text>
+
+
+<text x="300" y="375"
+font-family="Arial"
+font-size="15"
+fill="#8b949e">
+
+RANK
+
+</text>
+
+<text x="300" y="400"
+font-family="Arial"
+font-size="22"
+font-weight="bold"
+fill="#ffffff">
+
+newbie
+
+</text>
+
+
+<text x="520" y="375"
+font-family="Arial"
+font-size="15"
+fill="#8b949e">
+
+CONTESTS
+
+</text>
+
+<text x="520" y="400"
+font-family="Arial"
+font-size="22"
+font-weight="bold"
+fill="#ffffff">
+
+1
+
+</text>
+
 
 </svg>
