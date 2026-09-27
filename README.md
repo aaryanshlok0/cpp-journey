@@ -9,6 +9,12 @@
 </p>
 
 ---
+## 🔥 Codeforces Activity
+
+<p align="center">
+  <img src="./assets/cp-heatmap.svg" alt="Codeforces Activity Heatmap">
+</p>
+---
 
 ## 📊 My Competitive Programming Stats
 
