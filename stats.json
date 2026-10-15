@@ -1,10 +1,10 @@
 {
     "handle": "aaryanshlok",
-    "rating": 385,
-    "maxRating": 385,
+    "rating": 618,
+    "maxRating": 618,
     "rank": "newbie",
     "maxRank": "newbie",
-    "contests": 1,
+    "contests": 2,
     "solved": 9,
     "ratingHistory": [
         {
@@ -12,6 +12,12 @@
             "rating": 385,
             "change": 385,
             "date": 1790010300
+        },
+        {
+            "contest": "Educational Codeforces Round 195 (Rated for Div. 2)",
+            "rating": 618,
+            "change": 233,
+            "date": 1791995700
         }
     ],
     "recentContests": [
@@ -20,6 +26,12 @@
             "oldRating": 0,
             "newRating": 385,
             "change": 385
+        },
+        {
+            "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
+            "oldRating": 385,
+            "newRating": 618,
+            "change": 233
         }
     ],
     "submissions": [
@@ -108,5 +120,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "15 Oct 2026 \u2022 08:25"
+    "updated": "15 Oct 2026 \u2022 13:17"
 }
