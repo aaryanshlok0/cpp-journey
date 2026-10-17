@@ -5,7 +5,7 @@
     "rank": "newbie",
     "maxRank": "newbie",
     "contests": 2,
-    "solved": 9,
+    "solved": 11,
     "ratingHistory": [
         {
             "contest": "Codeforces Round 1122 (Div. 3)",
@@ -35,6 +35,18 @@
         }
     ],
     "submissions": [
+        {
+            "date": 1792223416,
+            "verdict": "OK"
+        },
+        {
+            "date": 1792223307,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792216551,
+            "verdict": "OK"
+        },
         {
             "date": 1791994206,
             "verdict": "OK"
@@ -120,5 +132,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "16 Oct 2026 \u2022 08:18"
+    "updated": "17 Oct 2026 \u2022 07:54"
 }
