@@ -36,6 +36,14 @@
     ],
     "submissions": [
         {
+            "date": 1792421891,
+            "verdict": "TIME_LIMIT_EXCEEDED"
+        },
+        {
+            "date": 1792421798,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
             "date": 1792223416,
             "verdict": "OK"
         },
@@ -132,5 +140,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "19 Oct 2026 \u2022 09:03"
+    "updated": "20 Oct 2026 \u2022 08:40"
 }
