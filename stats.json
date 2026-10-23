@@ -1,7 +1,7 @@
 {
     "handle": "aaryanshlok",
-    "rating": 618,
-    "maxRating": 618,
+    "rating": 623,
+    "maxRating": 623,
     "rank": "newbie",
     "maxRank": "newbie",
     "contests": 2,
@@ -9,14 +9,14 @@
     "ratingHistory": [
         {
             "contest": "Codeforces Round 1122 (Div. 3)",
-            "rating": 385,
-            "change": 385,
+            "rating": 386,
+            "change": 386,
             "date": 1790010300
         },
         {
             "contest": "Educational Codeforces Round 195 (Rated for Div. 2)",
-            "rating": 618,
-            "change": 233,
+            "rating": 623,
+            "change": 237,
             "date": 1791995700
         }
     ],
@@ -24,14 +24,14 @@
         {
             "name": "Codeforces Round 1122 (Div. 3)",
             "oldRating": 0,
-            "newRating": 385,
-            "change": 385
+            "newRating": 386,
+            "change": 386
         },
         {
             "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
-            "oldRating": 385,
-            "newRating": 618,
-            "change": 233
+            "oldRating": 386,
+            "newRating": 623,
+            "change": 237
         }
     ],
     "submissions": [
@@ -156,5 +156,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "22 Oct 2026 \u2022 08:43"
+    "updated": "23 Oct 2026 \u2022 08:39"
 }
