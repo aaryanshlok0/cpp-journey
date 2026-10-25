@@ -5,7 +5,7 @@
     "rank": "newbie",
     "maxRank": "newbie",
     "contests": 2,
-    "solved": 17,
+    "solved": 20,
     "ratingHistory": [
         {
             "contest": "Codeforces Round 1122 (Div. 3)",
@@ -35,6 +35,46 @@
         }
     ],
     "submissions": [
+        {
+            "date": 1792908489,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792906781,
+            "verdict": "OK"
+        },
+        {
+            "date": 1792856865,
+            "verdict": "OK"
+        },
+        {
+            "date": 1792856359,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792855075,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792854247,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792853874,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792853809,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792853767,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
+            "date": 1792849052,
+            "verdict": "OK"
+        },
         {
             "date": 1792773679,
             "verdict": "OK"
@@ -176,5 +216,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "24 Oct 2026 \u2022 08:14"
+    "updated": "25 Oct 2026 \u2022 08:32"
 }
