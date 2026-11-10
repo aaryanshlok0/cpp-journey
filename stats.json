@@ -36,6 +36,10 @@
     ],
     "submissions": [
         {
+            "date": 1794241053,
+            "verdict": "WRONG_ANSWER"
+        },
+        {
             "date": 1794026443,
             "verdict": "OK"
         },
@@ -232,5 +236,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "09 Nov 2026 \u2022 11:46"
+    "updated": "10 Nov 2026 \u2022 11:23"
 }
