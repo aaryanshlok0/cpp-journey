@@ -1,11 +1,11 @@
 {
     "handle": "aaryanshlok",
-    "rating": 623,
-    "maxRating": 623,
+    "rating": 772,
+    "maxRating": 772,
     "rank": "newbie",
     "maxRank": "newbie",
-    "contests": 2,
-    "solved": 22,
+    "contests": 3,
+    "solved": 23,
     "ratingHistory": [
         {
             "contest": "Codeforces Round 1122 (Div. 3)",
@@ -18,6 +18,12 @@
             "rating": 623,
             "change": 237,
             "date": 1791995700
+        },
+        {
+            "contest": "Codeforces Round 1134 (Div. 4)",
+            "rating": 772,
+            "change": 149,
+            "date": 1794502200
         }
     ],
     "recentContests": [
@@ -32,9 +38,23 @@
             "oldRating": 386,
             "newRating": 623,
             "change": 237
+        },
+        {
+            "name": "Codeforces Round 1134 (Div. 4)",
+            "oldRating": 623,
+            "newRating": 772,
+            "change": 149
         }
     ],
     "submissions": [
+        {
+            "date": 1794494749,
+            "verdict": "OK"
+        },
+        {
+            "date": 1794494607,
+            "verdict": "WRONG_ANSWER"
+        },
         {
             "date": 1794241053,
             "verdict": "WRONG_ANSWER"
@@ -236,5 +256,5 @@
             "verdict": "OK"
         }
     ],
-    "updated": "12 Nov 2026 \u2022 11:28"
+    "updated": "13 Nov 2026 \u2022 11:12"
 }
